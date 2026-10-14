@@ -9,7 +9,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 2. Получить OAuth-токен [тут](https://yandex.ru/dev/disk/poligon/)
-3. Создать файл .env и вписать в него строку "YANDEX_DISK_TOKEN={токен}"
+3. Создать в корне файл .env и вписать в него строку "YANDEX_DISK_TOKEN={токен}"
 
 ## Запуск
 
